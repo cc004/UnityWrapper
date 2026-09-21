@@ -1,0 +1,2 @@
+# UnityWrapper
+基于net8的unity序列化和基本ecs框架高性能实现，支持多线程
